@@ -1,0 +1,53 @@
+        body {
+            background-color: #333;
+            font-family: sans-serif,arial;
+            color: white;
+            overflow: hidden;
+            
+        }
+        #temapesq {
+            background-color: #333;
+            width: 471px;
+            height: 355px;
+            margin: 35px;
+            margin-top: 2px;
+            margin-left: 30px;
+            border: gray;
+            
+        }
+        input {
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding-bottom: 1px;
+        }
+        button {
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            padding: 5px;
+            padding-left: 4px;
+            padding-bottom: 4px;
+            padding-top: 5px;
+        }
+        button:active {
+            background-color: #555;
+            transition: background-color 0.9;
+        }
+        #seachrdio2 {
+            margin-left: 179px;
+            margin-top: -59px;
+            width: 10px;
+            
+        }
+        #seachrdio1 {
+            width: 110px;
+            
+        }
+        #radiosoption {
+            width: 214px;
+            
+        }
+        
