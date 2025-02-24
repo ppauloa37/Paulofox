@@ -11,14 +11,14 @@
             
         }
         input {
-            background-color: #444;
+            background-color: #555;
             color: white;
             border: none;
             border-radius: 5px;
             padding-bottom: 1px;
         }
         button {
-            background-color: #444;
+            background-color: #555;
             color: white;
             border: none;
             border-radius: 6px;
@@ -28,7 +28,7 @@
             padding-top: 5px;
         }
         button:active {
-            background-color: #050;
+            background-color: #090;
             transition: background-color 0.9;
         }
         #seachrdio2 {
